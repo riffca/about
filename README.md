@@ -1,17 +1,10 @@
-# Мои инструменты 
-## Git
-## Сервер
-```Bash
-Linux Debian 8
-apache2
-nodejs
-python 
-mysql
-mongoDb
-```
+# Мои инструменты
 
-##Javascipt
+## Контроль версии
+git
 
+## Клиент
+###Javascipt
 ```BASH
 es2015
 webpack
@@ -19,27 +12,28 @@ vuejs
 angularjs
 ```
 
-##nodejs
-
+##Сервер
+###nodejs
 ```BASH
 express
 mongoDb
 ```
 
-##PHP
-
+###PHP
 ```BASH
-mysql
 laravel
 slim
+mysql
 ```
 
-##Python
-
-```BASH
-flask
-cherrypy
-virlualenv
+## Production VPS 
+```Bash
+Linux Debian 7
+apache2
+php
+nodejs
+mysql
+mongoDb
 ```
 
 

@@ -1,12 +1,17 @@
 # Мои инструменты
 
-## Контроль версии
+## Контроль версий
 git
 
 ## Клиент
+###css
+```BASH
+sass
+bootstrap
+```
+
 ###Javascipt
 ```BASH
-es2015
 webpack
 vuejs
 angularjs

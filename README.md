@@ -5,23 +5,23 @@ git
 
 ## Клиент
 ###css
-```BASH
-sass
-bootstrap
-```
+
+* sass
+* bootstrap
+
 
 ###Javascipt
 ```BASH
-webpack
-vuejs
-angularjs
+* webpack
+* vuejs
+* angularjs
 ```
 
 ##Сервер
 ###nodejs
 ```BASH
-express
-mongoDb
+* express
+* mongoDb
 ```
 
 ###PHP

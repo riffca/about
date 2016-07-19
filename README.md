@@ -12,6 +12,7 @@ bootstrap
 
 ###Javascipt
 ```BASH
+es2015
 webpack
 vuejs
 angularjs

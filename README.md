@@ -14,12 +14,12 @@ bootstrap
 ```BASH
 es2015
 webpack
-vuejs
+vuejs(в приоритете)
 angularjs
 ```
 
 ##Сервер
-###nodejs
+###nodejs(в приоритете)
 ```BASH
 express
 mongoDb

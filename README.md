@@ -1,37 +1,44 @@
 
-git
+## Skills
 
-###css
+git
+### css/html
 ```BASH
+jsx
+pug
 postcss
-sass
+scss
 bootstrap
 ```
-###Javascipt
+### Javascipt
 ```BASH
+sockjs
 webpack
 vuejs
 reactjs
 gulp
 ```
-
-###nodejs
+### nodejs
 ```BASH
 express
 mongoDb
 ```
-##Golang
-
-###PHP
+### Golang(chat, crud)
+```BASH
+gorm
+```
+### PHP
 ```BASH
 laravel
 slim
 mysql
 ```
+## Postgresql
+## Docker 
 
-## Production VPS 
-```Bash
-Docker Docker-compose
-```
+
+I am 2 years experience web developer with frontend javascript projects.
+Want to learn, understand and develop new interesting vue.js or react.js and golang projects.
+
 
 

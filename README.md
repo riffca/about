@@ -1,29 +1,26 @@
-# Мои инструменты
 
-## Контроль версий
 git
 
-## Клиент
 ###css
 ```BASH
+postcss
 sass
 bootstrap
 ```
-
 ###Javascipt
 ```BASH
-es2015
 webpack
-vuejs(в приоритете)
-angularjs
+vuejs
+reactjs
+gulp
 ```
 
-##Сервер
-###nodejs(в приоритете)
+###nodejs
 ```BASH
 express
 mongoDb
 ```
+##Golang
 
 ###PHP
 ```BASH
@@ -34,12 +31,7 @@ mysql
 
 ## Production VPS 
 ```Bash
-Linux Debian 7
-apache2
-php
-nodejs
-mysql
-mongoDb
+Docker Docker-compose
 ```
 
 

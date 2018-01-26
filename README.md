@@ -21,10 +21,12 @@ gulp
 ### nodejs
 ```BASH
 express
+typescript
 mongoDb
 ```
 ### Golang(chat, crud)
 ```BASH
+postgresql
 gorm
 ```
 ### PHP
@@ -38,7 +40,7 @@ mysql
 
 
 I am 2 years experience web developer with frontend javascript projects.
-Want to learn, understand and develop new interesting vue.js or react.js and golang projects.
+Want to learn, understand and develop new interesting vue.js/react.js/golang/nodejs projects.
 
 
 

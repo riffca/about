@@ -2,6 +2,7 @@
 ## Skills
 
 git
+
 ### css/html
 ```BASH
 jsx
@@ -38,10 +39,12 @@ mysql
 
 ## Docker 
 
+## About
 
 I am 2 years experience web developer with frontend javascript projects.
-[directbot.io](https://directbot.io)
-[trusty.fund](https:/trusty.fund)
+* [directbot.io](https://directbot.io)
+* [tusty.fund](https://trusty.fund)
+
 Want to learn, understand and develop new interesting vue.js/react.js/golang/nodejs projects.
 
 

@@ -41,11 +41,9 @@ mysql
 
 ## About
 
-I am 2 years experience web developer with frontend javascript projects.
-* [directbot.io](https://directbot.io)
-* [tusty.fund](https://trusty.fund)
+I am over 3 experience web developer with frontend javascript projects and backend skills.
 
-Want to learn, understand and develop new interesting vue.js/react.js/golang/nodejs projects.
+Want to develop new  vue/react/golang/node projects.
 
 
 
